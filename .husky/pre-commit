@@ -1,2 +1,3 @@
+pnpm biome:lint
 pnpx lint-staged
 pnpm test
